@@ -21,7 +21,7 @@ services:
     #  - $pwd/angular4_jwt_webroot:/usr/share/nginx/html
     #  - ./site.conf:/etc/nginx/conf.d/default.conf
     #extra_hosts:
-    #  - "oauth_server:172.22.201.35"
+    #  - "oauth_server:oauth_server_id"
 
 #networks:
 #  code-network:
